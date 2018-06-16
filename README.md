@@ -8,11 +8,14 @@
    
 ## Latex Formula
  
-    *Not suported*
+*Not suported*
+    
+$\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+
 $
- \boldsymbol\Sigma = \begin{bmatrix}
- \sigma^2(x_1) & cov(x_2,x_1) \\
- cov(x_1,x_2) &  \sigma^2(x_2)
+\boldsymbol\Sigma = \begin{bmatrix}
+\sigma^2(x_1) & cov(x_2,x_1) \\
+cov(x_1,x_2) &  \sigma^2(x_2)
 \end{bmatrix}
 $
 
