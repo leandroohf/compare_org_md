@@ -12,6 +12,8 @@
     
 $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
 
+\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+
 $
 \boldsymbol\Sigma = \begin{bmatrix}
 \sigma^2(x_1) & cov(x_2,x_1) \\
