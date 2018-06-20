@@ -19,6 +19,10 @@ $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
 \end{bmatrix}
 \)
 
+<script type="math/tex; mode=display" id="MathJax-Element-6">
+S_T = \sum_{i=1}^C\sum_{t=1}^N(x_t^i - \mu)(x_t^i - \mu)^T = S_W + S_B
+</script>
+
 ** Links
 
    [[file:README.md]]
